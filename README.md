@@ -1,6 +1,6 @@
-<!-- Glitch Header -->
+<!-- Minimal Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=700&lines=🚀+Kavya+Chauhan;⚡+Full+Stack+Developer;💡+Tech+Explorer;📚+Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Kavya+Chauhan;Full+Stack+Developer;Tech+Explorer;Passionate+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,30 +42,20 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavya020805&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya020805&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya020805&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya020805&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya020805&theme=react-dark&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya020805&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </p>
-
----
-
-### 🎭 Fun Zone  
-
-- 😂 Random Joke:  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-- 🔮 Random Dev Quote:  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavya020805&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavya020805&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -76,11 +66,7 @@
 
 ---
 
-<!-- Cyberpunk Footer -->
+<!-- Minimal Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix effect" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4B2B&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:112240&height=2&section=footer"/>
 </p>
