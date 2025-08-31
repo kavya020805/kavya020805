@@ -1,13 +1,13 @@
 <!-- Minimal Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Kavya+Chauhan;Full+Stack+Developer;Tech+Explorer;Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Kavya+Chauhan;Software+Engineer;Tech+Explorer;Passionate+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me  
 - 🎓 Sophomore @ **DA-IICT**  
-- 💻 Currently working on **Full Stack Projects**  
+- 💻 Currently working on **Software Engineering Projects**  
 - 🌱 Exploring **DSA, Dynamic Programming & System Design**  
 - 🧑‍💻 I love building things that make an impact  
 - 🎯 Goal: Craft solutions that blend creativity + scalability  
