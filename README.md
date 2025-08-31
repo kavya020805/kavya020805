@@ -17,8 +17,24 @@
 
 ### ⚡ Tech Stack  
 
+#### 🖥️ Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,postgresql,react,nodejs,express,mongodb,firebase,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,postgresql&theme=dark" />
+</p>
+
+#### 🛠️ Developer Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
+
+#### 📚 Libraries & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+</p>
+
+#### ☁️ Databases & Cloud  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
 </p>
 
 ---
