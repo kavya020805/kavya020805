@@ -68,5 +68,9 @@
 
 <!-- Minimal Footer -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix effect" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:112240&height=2&section=footer"/>
 </p>
