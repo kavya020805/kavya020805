@@ -1,13 +1,7 @@
+<!-- Glitch Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+Kavya+Chauhan;🚀+Full+Stack+Developer;🎯+Passionate+Learner;🔥+Always+Building+Cool+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=700&lines=🚀+Kavya+Chauhan;⚡+Full+Stack+Developer;💡+Tech+Explorer;📚+Passionate+Learner" alt="Typing SVG" />
 </p>
-
-
-
-<!-- Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kavya+Chauhan;Full+Stack+Developer+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80;Passionate+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-</h1>
 
 ---
 
@@ -37,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya020805&theme=dracula&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya020805&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
@@ -71,4 +65,8 @@
 <!-- Cyberpunk Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix effect" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4B2B&height=2&section=footer"/>
 </p>
