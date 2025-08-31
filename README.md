@@ -1,30 +1,33 @@
 <!-- 🔥 Custom Glitch Banner -->
 <h1 align="center">
   <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .glitch {
-        font: bold 60px monospace;
-        fill: #ff1177;
-        animation: flicker 1.5s infinite alternate;
-      }
-      .glitch2 {
-        font: bold 60px monospace;
-        fill: #11ffee;
-        transform: translate(3px, -3px);
-        opacity: 0.7;
-      }
-      @keyframes flicker {
-        0% { opacity: 1; }
-        30% { opacity: 0.8; }
-        60% { opacity: 0.6; }
-        80% { opacity: 1; }
-        100% { opacity: 0.9; }
-      }
-    </style>
+    <defs>
+      <style>
+        .glitch {
+          font: bold 60px monospace;
+          fill: #ff1177;
+          animation: flicker 1.5s infinite alternate;
+        }
+        .glitch2 {
+          font: bold 60px monospace;
+          fill: #11ffee;
+          transform: translate(3px, -3px);
+          opacity: 0.7;
+        }
+        @keyframes flicker {
+          0% { opacity: 1; }
+          30% { opacity: 0.8; }
+          60% { opacity: 0.6; }
+          80% { opacity: 1; }
+          100% { opacity: 0.9; }
+        }
+      </style>
+    </defs>
     <text x="50%" y="50%" text-anchor="middle" class="glitch">KAVYA CHAUHAN ⚡</text>
     <text x="50%" y="50%" text-anchor="middle" class="glitch2">KAVYA CHAUHAN ⚡</text>
   </svg>
 </h1>
+
 
 <!-- Typing Intro -->
 <h1 align="center">
