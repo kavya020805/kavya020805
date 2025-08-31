@@ -11,7 +11,7 @@
 - 🌱 Exploring **DSA, Dynamic Programming & System Design**  
 - 🧑‍💻 I love building things that make an impact  
 - 🎯 Goal: Craft solutions that blend creativity + scalability  
-- 📫 Reach me at **kavyachauhan910@gmail.com**  
+- 📫 Reach me at **kavyachauhan913@gmail.com**  
 
 ---
 
