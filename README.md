@@ -1,5 +1,6 @@
-<h1 align="center">✨ Hey there, I'm Kavya Chauhan ✨</h1>
-<h3 align="center">🚀 Full-Stack Developer | Sophomore @ DA-IICT | Tech Explorer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kavya+Chauhan;Full+Stack+Developer+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80;Passionate+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=header"/>
@@ -11,9 +12,17 @@
 - 🎓 Sophomore @ **DA-IICT**  
 - 💻 Currently working on **Full Stack Projects**  
 - 🌱 Exploring **DSA, Dynamic Programming & System Design**  
-- 🧑‍💻 I love building things that make an impact.  
-- 🎯 Goal: To craft solutions that blend creativity and scalability.  
+- 🧑‍💻 I love building things that make an impact  
+- 🎯 Goal: Craft solutions that blend creativity + scalability  
 - 📫 Reach me at **kavyachauhan910@gmail.com**  
+
+---
+
+### ⚡ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,mysql,c,cpp,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
@@ -24,12 +33,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya020805&theme=radical&hide_border=true" height="170"/>
 </p>
 
----
-
-### 🚀 Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,mysql,c,cpp,git,github,vscode&theme=light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya020805&theme=dracula&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
@@ -44,30 +49,18 @@
 
 ---
 
-### 🏆 Trophies  
+### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavya020805&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavya020805&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 🐍 Contribution Snake  
 
 <p align="center">
-  <a href="https://instagram.com/kavyachauhan_13" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.hackerrank.com/h202301116" target="blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
-  <a href="mailto:kavyachauhan910@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
-
----
-
-### ☕ Support  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kavyachauhan13" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-  </a>
+  <img src="https://github.com/kavya020805/kavya020805/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
