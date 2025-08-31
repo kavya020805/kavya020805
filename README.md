@@ -56,9 +56,7 @@
 
 ### 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://github.com/kavya020805/kavya020805/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/kavya020805/kavya020805/blob/output/snake.svg)
 
 ---
 
