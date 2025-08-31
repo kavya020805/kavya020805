@@ -1,10 +1,35 @@
+<!-- 🔥 Custom Glitch Banner -->
+<h1 align="center">
+  <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .glitch {
+        font: bold 60px monospace;
+        fill: #ff1177;
+        animation: flicker 1.5s infinite alternate;
+      }
+      .glitch2 {
+        font: bold 60px monospace;
+        fill: #11ffee;
+        transform: translate(3px, -3px);
+        opacity: 0.7;
+      }
+      @keyframes flicker {
+        0% { opacity: 1; }
+        30% { opacity: 0.8; }
+        60% { opacity: 0.6; }
+        80% { opacity: 1; }
+        100% { opacity: 0.9; }
+      }
+    </style>
+    <text x="50%" y="50%" text-anchor="middle" class="glitch">KAVYA CHAUHAN ⚡</text>
+    <text x="50%" y="50%" text-anchor="middle" class="glitch2">KAVYA CHAUHAN ⚡</text>
+  </svg>
+</h1>
+
+<!-- Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kavya+Chauhan;Full+Stack+Developer+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80;Passionate+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=header"/>
-</p>
 
 ---
 
@@ -65,6 +90,7 @@
 
 ---
 
+<!-- Cyberpunk Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix effect" />
 </p>
