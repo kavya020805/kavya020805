@@ -12,7 +12,6 @@
 ---
 
 ## 🛠️ Technical Skills
-<!-- (unchanged – keeping exactly as you finalized earlier) -->
 
 <table>
   <tr>
@@ -24,20 +23,25 @@
       <img src="https://img.shields.io/badge/JavaScript-6B7280?style=flat&logo=javascript"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-475569?style=flat&logo=react"/>
       <img src="https://img.shields.io/badge/Node.js-475569?style=flat&logo=node.js"/>
+      <img src="https://img.shields.io/badge/FastAPI-475569?style=flat&logo=fastapi"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat&logo=postgresql"/>
+      <img src="https://img.shields.io/badge/MySQL-334155?style=flat&logo=mysql"/>
       <img src="https://img.shields.io/badge/MongoDB-64748B?style=flat&logo=mongodb"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Libraries</b></td>
     <td>
@@ -45,14 +49,17 @@
       <img src="https://img.shields.io/badge/Socket.io-7C3AED?style=flat&logo=socket.io"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-B45309?style=flat&logo=git"/>
       <img src="https://img.shields.io/badge/GitHub-B45309?style=flat&logo=github"/>
       <img src="https://img.shields.io/badge/VS%20Code-B45309?style=flat&logo=visualstudiocode"/>
+      <img src="https://img.shields.io/badge/Software%20Testing-B45309?style=flat"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Platforms</b></td>
     <td>
@@ -62,6 +69,7 @@
       <img src="https://img.shields.io/badge/Render-0F766E?style=flat&logo=render"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Design</b></td>
     <td>
@@ -69,6 +77,7 @@
       <img src="https://img.shields.io/badge/Canva-7C2D12?style=flat&logo=canva"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Core CS Fundamentals</b></td>
     <td>
