@@ -1,76 +1,127 @@
-<!-- Minimal Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Kavya+Chauhan;Software+Engineer;Tech+Explorer;Passionate+Learner" alt="Typing SVG" />
+<h1 align="center">Hi, I'm Kavya Chauhan 👋</h1>
+<h3 align="center">Software Developer | DSA Enthusiast | Competitive Programmer</h3>
+
+---
+
+## 🚀 About Me
+- Passionate about <b>Data Structures & Algorithms</b> and <b>Software Development</b>
+- Strong problem-solving mindset focused on <b>efficiency and correctness</b>
+- Actively involved in <b>competitive programming</b>
+- Aspiring Software Engineer with strong <b>core CS fundamentals</b>
+
+---
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-9AA5B1?style=flat"/>
+      <img src="https://img.shields.io/badge/C++-9AA5B1?style=flat"/>
+      <img src="https://img.shields.io/badge/Python-9AA5B1?style=flat"/>
+      <img src="https://img.shields.io/badge/JavaScript-9AA5B1?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-AEDFF7?style=flat"/>
+      <img src="https://img.shields.io/badge/Node.js-AEDFF7?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-C6D8FF?style=flat"/>
+      <img src="https://img.shields.io/badge/MongoDB-C6D8FF?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/STL-F3D9FA?style=flat"/>
+      <img src="https://img.shields.io/badge/Socket.io-F3D9FA?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-FFD6A5?style=flat"/>
+      <img src="https://img.shields.io/badge/GitHub-FFD6A5?style=flat"/>
+      <img src="https://img.shields.io/badge/VS%20Code-FFD6A5?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-BEE7E8?style=flat"/>
+      <img src="https://img.shields.io/badge/Supabase-BEE7E8?style=flat"/>
+      <img src="https://img.shields.io/badge/Vercel-BEE7E8?style=flat"/>
+      <img src="https://img.shields.io/badge/Render-BEE7E8?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-FFB7B2?style=flat"/>
+      <img src="https://img.shields.io/badge/Canva-FFB7B2?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core CS Fundamentals</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-111111?style=flat"/>
+      <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-111111?style=flat"/>
+      <img src="https://img.shields.io/badge/Operating%20Systems-111111?style=flat"/>
+      <img src="https://img.shields.io/badge/DBMS-111111?style=flat"/>
+      <img src="https://img.shields.io/badge/Computer%20Networks-111111?style=flat"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Competitive Programming (Codeforces)
+- <b>Expert</b> — Rating <b>1675</b>
+- <b>1000+ problems solved</b>
+- Strong command over <b>Implementation, Greedy, Math, Binary Search, DP, Data Structures, Graphs</b>
+
+Codeforces: https://codeforces.com/profile/Noesis
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/kavyachauhan13/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat"/>
+</a>
+<a href="https://codeforces.com/profile/Noesis" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-0A66C2?style=flat"/>
+</a>
+<a href="https://www.instagram.com/kavyachauhan_13/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat"/>
+</a>
 </p>
 
 ---
 
-### 🌟 About Me  
-- 🎓 Sophomore @ **DA-IICT**  
-- 💻 Currently working on **Software Engineering Projects**  
-- 🌱 Exploring **DSA, Dynamic Programming & System Design**  
-- 🧑‍💻 I love building things that make an impact  
-- 🎯 Goal: Craft solutions that blend creativity + scalability  
-- 📫 Reach me at **kavyachauhan913@gmail.com**  
-
----
-
-### ⚡ Tech Stack  
-
-#### 🖥️ Programming Languages  
+## 📈 GitHub Activity
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,postgresql&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya020805&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
-#### 🛠️ Developer Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya020805&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-#### 📚 Libraries & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
-</p>
-
-#### ☁️ Databases & Cloud  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=kavya020805&style=flat&color=blue" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
+## ✨ Philosophy
+> <i>First, solve the problem. Then, write the code.</i>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavya020805&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya020805&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya020805&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</p>
-
----
-
-### 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavya020805&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/kavya020805/kavya020805/blob/output/snake.svg)
-
----
-
-<!-- Minimal Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix effect" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:112240&height=2&section=footer"/>
-</p>
+⭐ If you find my work interesting, feel free to <b>star</b> my repositories!
