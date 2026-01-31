@@ -12,6 +12,7 @@
 ---
 
 ## 🛠️ Technical Skills
+<!-- (unchanged – keeping exactly as you finalized earlier) -->
 
 <table>
   <tr>
@@ -92,30 +93,27 @@ Codeforces: https://codeforces.com/profile/Noesis
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/kavyachauhan13/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
-</a>
-<a href="https://codeforces.com/profile/Noesis" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-0A66C2?style=flat&logo=codeforces"/>
-</a>
-<a href="https://www.instagram.com/kavyachauhan_13/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat&logo=instagram"/>
-</a>
+  <a href="https://www.linkedin.com/in/kavyachauhan13/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Noesis" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kavyachauhan_13/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavya020805&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavya020805&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya020805&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavya020805&style=flat&color=blue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavya020805&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavya020805&theme=github_dark" />
 </p>
 
 ---
