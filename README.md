@@ -55,6 +55,7 @@
     <td>
       <img src="https://img.shields.io/badge/Git-B45309?style=flat&logo=git"/>
       <img src="https://img.shields.io/badge/GitHub-B45309?style=flat&logo=github"/>
+      <img src="https://img.shields.io/badge/Docker-B45309?style=flat&logo=docker"/>
       <img src="https://img.shields.io/badge/VS%20Code-B45309?style=flat&logo=visualstudiocode"/>
       <img src="https://img.shields.io/badge/Software%20Testing-B45309?style=flat"/>
     </td>
