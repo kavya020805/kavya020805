@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kavya Chauhan 👋</h1>
-<h3 align="center">Software Developer | DSA Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Software Developer | Competitive Programmer</h3>
 
 ---
 
