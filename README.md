@@ -97,8 +97,6 @@
 - <b>Expert</b> — Rating <b>1675</b>
 - <b>1000+ problems solved</b>
 
-Codeforces: https://codeforces.com/profile/Noesis
-
 ---
 
 ## 🌐 Connect With Me
